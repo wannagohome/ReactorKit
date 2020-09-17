@@ -21,11 +21,11 @@
       },
       {
         "package": "WeakMapTable",
-        "repositoryURL": "https://github.com/ReactorKit/WeakMapTable.git",
+        "repositoryURL": "https://github.com/wannagohome/WeakMapTable.git",
         "state": {
-          "branch": null,
-          "revision": "eda6ba374666bb2177034b6418025103cc72bcbf",
-          "version": "1.1.0"
+          "branch": "master",
+          "revision": "ccd5668a7a6965a8e0aff595a8837d2bb06c9789",
+          "version": null
         }
       }
     ]
